@@ -1,10 +1,9 @@
 {
   "name": "interview",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "description": "interview knowledge collection",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test:promise": "node script/promise-test"
   },
   "keywords": [],
   "author": "",
